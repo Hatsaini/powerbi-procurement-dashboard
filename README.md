@@ -2,12 +2,6 @@
 
 > Interactive Power BI solution analyzing $18.4M in annual procurement spend, identifying $300K+ in cost optimization opportunities through data-driven insights.
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-![Dashboard Preview](screenshots/01-executive-overview.png)
-
 ## 📊 Project Overview
 
 This Power BI dashboard was developed as part of an internship assessment for **Interflow**, analyzing procurement data from Bunnings to uncover cost-saving opportunities and optimize purchasing processes.
